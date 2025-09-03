@@ -1,2 +1,4 @@
-# AI-Text-to-Image-Generator
-This repository contains an AI-powered Text-to-Image Generator built using Stable Diffusion v1.5. Developed as part of my #, the project enables users to convert natural language prompts into high-quality images with the help of Hugging Face’s Diffusers, PyTorch, and Transformers libraries.
+# 🖼️ AI-Text-to-Image-Generator  
+“Your ideas, transformed into AI-generated visuals in seconds.”  
+AI Text-to-Image Generator using **Stable Diffusion v1.5**.  
+This project converts natural language prompts into AI-generated images using **Hugging Face Diffusers**, **PyTorch**, and **Transformers**.  
